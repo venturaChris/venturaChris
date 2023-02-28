@@ -16,6 +16,7 @@
   <img align="center" alt="Ju-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 ![Snake animation](https://github.com/venturaChris/venturaChris/blob/output/github-contribution-grid-snake.svg)
   </div>
+  ![](https://raw.githubusercontent.com/venturaChris/venturaChris/output/github-contribution-grid-snake.svg)
   
  
  
