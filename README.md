@@ -14,7 +14,8 @@
   <img align="center" alt="Ju-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ju-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" >
   <img align="center" alt="Ju-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
-  ![Snake animation](https://github.com/venturaChris/venturaChris/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/venturaChris/venturaChris/blob/output/github-contribution-grid-snake.svg)
+  </div>
+  
  
  
