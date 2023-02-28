@@ -20,9 +20,11 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  </div>
  <a href="https://www.linkedin.com/in/christopher-ventura-32751b223/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   ![Snake animation](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
 
+  ![Snake animation](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
 </div>
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=venturaChris&repo=venturaChris&theme=react)](https://github.com/venturaChris/venturaChris)
  
 
 
